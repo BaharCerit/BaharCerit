@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Hubby Buddy](https://hobbybuddy.club/)
 
-- 👨‍💻 All of my projects are available at **http://baharcerit.com/**
+- 👨‍💻 All of my projects are available at **http://baharcerit.com/** & **https://troopl.com/bahar-cerit** 
 
 - 🌱 I’m currently learning **TypeScript and React**
 
