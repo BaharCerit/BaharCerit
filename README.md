@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **baharyldz.c@gmail.com**
 
-- 📝 I regularly write articles on [linkedin/BaharCerit](https://www.linkedin.com/in/bahar-cerit-7b85b598/)
+- 📝 I regularly write articles on [linkedin/BaharCerit](https://www.linkedin.com/in/bahar-cerit)
 
 - 📄 Know about my experiences [Resume/BaharCerit](https://app.enhancv.com/share/fda0cb6c/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
