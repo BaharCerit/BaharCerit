@@ -12,6 +12,7 @@
 - 📝 You can also take a look at my [linkedin/BaharCerit](https://www.linkedin.com/in/bahar-cerit)
 
 - 📄 Know about my experiences [Resume/BaharCerit](https://app.enhancv.com/share/3de1b1f6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
+- 🚀 I'd like to mention that I'm open to collaboration and work, so feel free to reach out to me anytime! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
