@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baharcerit&label=Profile%20views&color=0e75b6&style=flat" alt="baharcerit" /> </p>
 
-- 🔭 I’m currently working on [Hubby Buddy](https://hobbybuddy.club/)
-
 - 👨‍💻 All of my projects are available at **http://baharcerit.com/** & **https://troopl.com/bahar-cerit** 
 
 - 🌱 I’m currently learning **TypeScript and React**
 
 - 📫 How to reach me **baharyldz.c@gmail.com**
 
-- 📝 I regularly write articles on [linkedin/BaharCerit](https://www.linkedin.com/in/bahar-cerit)
+- 📝 You can also take a look at my [linkedin/BaharCerit](https://www.linkedin.com/in/bahar-cerit)
 
 - 📄 Know about my experiences [Resume/BaharCerit](https://app.enhancv.com/share/3de1b1f6/?utm_medium=growth&utm_campaign=share-resume&utm_source=dynamic)
 
